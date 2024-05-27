@@ -1,0 +1,15 @@
+REST api - json
+
+get/user  - list all usees
+
+get /user/1 - get the user id 1
+get /user/2 - get the iuser id 2
+
+
+post /user - create new user
+
+patch/user/1 - edit the user id
+
+delete /users - delte the user id 1
+
+
